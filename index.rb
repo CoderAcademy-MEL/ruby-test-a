@@ -96,3 +96,4 @@ array % 3
 end 
 
 p array
+
