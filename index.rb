@@ -14,6 +14,7 @@
 
 # a. In Ruby what is coercion? Explain what coercion is using the code snippet below.
 
+
 # if nil 
 #   puts "hi"
 # end 
