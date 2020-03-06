@@ -1,5 +1,5 @@
 # Question 1: What is a variable?
-# Answer 1: Variable is the place where different values are stored (assigned), normally different variables have different object ID (except when a same symbol value is assigned to different variables)
+# Answer 1: Variable is the place where different values are stored (assigned), normally different variables have different object ID (except when a same symbol value is assigned to different variables). The difference between variable and constant is that you can always reassign new value to the same variable but if you reassign a new value to a constant there will be an error message.
 
 # Question 2: What Ruby method can you use to make a loop from an array?
 # Answer 2: array.each (e.g. array.each {|v| do ...})
