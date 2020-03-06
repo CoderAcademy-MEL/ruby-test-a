@@ -37,7 +37,7 @@ array.each
 # Question 12: Name one method you could use to access the last element in an array
 # unshift
 # Question 13: What the method do you use to create new objects (or instances of a class)?
-
+.new
 # # Question 14: 
 # class Fish 
 
