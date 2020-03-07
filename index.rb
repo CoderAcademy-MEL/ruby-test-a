@@ -19,7 +19,8 @@
  Question 6: What is an instance variable?
  Answer: Its a variable that is defined in initialize in the class.
  Question 7: What is handy about using gems in Ruby?
- Answer: Its a library which we can use wile coding in Ruby.
+ Answer: Its a library which we can use wile coding in Ruby.//
+  
  Question 8:  Use string interpolation and the variable my_string = “Fred” to print to output the string “My name is Fred”
  Answer: p "My name is #{my_string}"
  Question 9: Give one method to remove whitespace from user input in Ruby
@@ -70,6 +71,8 @@ Answer:
 
  Question 17: Write a Ruby method that takes an array and a string as arguments, and returns true if the string is in the array, and false if it is not. Use a loop in this method, and do not use the inbuilt Ruby Array methods (except .each).
  Answer: 
+   arr = ["coder","academy"]
+   string = "academy"
           def ruby_method(arr,string)
            arr.each do |num|
            if num == string
@@ -105,4 +108,3 @@ Question 19: You must use your previous method in this next question. Write anot
         end  
         
         method2(arr1)
-        
