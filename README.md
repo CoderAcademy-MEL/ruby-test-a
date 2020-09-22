@@ -14,7 +14,7 @@ You may NOT use Google. These questions are to test how you are progressing thro
 
 ### From the Command Line To Solve Questions
 
-3. `cd` to the `ruby` directory on your machine
+3. `cd` to the `desktop` directory on your machine
 
 4. Run this command `git clone [the link you copied above]`
 
