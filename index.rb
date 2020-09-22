@@ -24,7 +24,7 @@
 
 # Question 10: What method would you use to get input from a user?
 
-# Question 11: What result would you get in pry or IRB for this equation: 2 + 7 % 3 ? Remember the order of operations!
+# Question 11: What result would you get for this equation: 2 + 7 % 3 ? Remember the order of operations!
 
 # Question 12: Name one method you could use to access the last element in an array
 
