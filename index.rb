@@ -42,7 +42,7 @@
 
 # Question 16: Write a Ruby method that takes three arguments and returns the sum (total) of those three arguments.
 
-# Question 17: Write a Ruby method that takes an array and a string as arguments, and returns true if the string is in the array, and false if it is not. Use a loop in this method, and do not use the inbuilt Ruby Array methods (except .each).
+# Question 17: Write a Ruby method that takes an array and a string as arguments, and returns true if the string is in the array, and false if it is not. Use a loop in this method. You can use .each but you CANNOT use .include?
 
 # Question 18: Write a method that takes one argument, a number, and that returns true if the number is divisible by three, and false otherwise. 
 
