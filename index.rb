@@ -1,24 +1,42 @@
 # Question 1: What is a variable?
+# A variable is a value assigned to a lable that points to a segment in memory
 
 # Question 2: What Ruby method can you use to make a loop from an array?
+# array.each or array.map
 
 # Question 3: In Ruby, what are the booleans?
+# A variable datatype that contain only the values true or false
 
 # Question 4: 
 
 # a. In Ruby what is coercion? Explain what coercion is using the code snippet below.
 
-# if nil 
-#   puts "hi"
+# Coercion refers changing the data type of variables with an inbuilt Ruby function
+# This can either be an explicit coersion (to_i) or implicit (to_int)
+
+# varible = "1".to_i
+# if variable.class == String 
+#   puts "hi" + variable
+# else
+#   puts variable
 # end 
 
 # Question 5: What is a class? 
+# A class is an essential element of OOP. A class is program set that contains 
+# both methods and objects that indicate it's attributes and possible actions that
+# manipulate those attributes
 
 # Question 6: What is an instance variable?
+# All classes can be initialized in a program to provide an instance of that class.
+# An instance variable is a variable that contains an attribute value specific to 
+# the created class instance
 
 # Question 7: What is handy about using gems in Ruby?
+# Gems provide additional functionality to common programming requirements in Ruby such as
+# debuging programs like ByeBug and formatting outputs such as tty-prompt
 
 # Question 8:  Use string interpolation and the variable my_string = “Fred” to print to output the string “My name is Fred”
+
 
 # Question 9: Give one method to remove whitespace from user input in Ruby
 
