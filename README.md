@@ -18,20 +18,22 @@ You may NOT use Google. These questions are to test how you are progressing thro
 
 4. Run this command `git clone [the link you copied above]`
 
-5. Run this command `git checkout -b [your-name]-solutions`
+5. `cd` into the directory `ruby-test-a`
 
-6. Start solving the questions in `index.rb`
+6. Run this command `git checkout -b [your-name]-solutions`
+
+7. Start solving the questions in `index.rb`
 
 ### From the Command Line Once You're Finished
 
-7. Run this command `git add .`
+8. Run this command `git add .`
 
-8. Run this command `git commit -m "challenge completed"`
+9. Run this command `git commit -m "challenge completed"`
 
-9. Run this command `git push origin [your-name]-solutions`
+10. Run this command `git push origin [your-name]-solutions`
 
-10. Copy the pull request link that would have been generated from the command line and go back to GitHub
+11. Copy the pull request link that would have been generated from the command line and go back to GitHub
 
 ### On Github To Make a Pull Request
 
-11. Click on the green button `Make pull request` to make a pull request so I can review your code
+12. Click on the green button `Make pull request` to make a pull request so I can review your code
