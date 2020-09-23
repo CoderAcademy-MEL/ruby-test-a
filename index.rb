@@ -58,7 +58,14 @@ def add(v1,v2,v3)
 end
 # Question 17: Write a Ruby method that takes an array and a string as arguments, and returns true if the string is in the array, and false if it is not. Use a loop in this method. You can use .each but you CANNOT use .include?
 def finder (string, arr)
-  arr.include?(string)
+    arr.each do |str|
+    if str == string
+      true
+    else 
+      false
+    end
+  end
+  
 end
 # Question 18: Write a method that takes one argument, a number, and that returns true if the number is divisible by three, and false otherwise. 
 def foo(num)
